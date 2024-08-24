@@ -8,7 +8,6 @@ const Footer = () => {
             {/* <div> */}
                 <p className="footer-paragraph">© Copyright, All Rights Reserved by Ungineering</p>
             {/* </div> */}
-            <h1>Hii Anjnai</h1>
         </div>
     );
 };
